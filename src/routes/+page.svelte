@@ -1,22 +1,28 @@
 <script>
 	import { getTypography } from "$lib/components/foundations/typography";
+    const breadcrumbItems = [
+    { title: 'Inicio', href: 'https://www.copaair.com/es/vuelos' },
+    { title: 'Promociones', href: 'https://www.copaair.com/es/vuelos-promociones' },
+ 
+  ];
+
 </script>
 
-
 <div class="w-full bg-primary grid grid-rows-[48px_auto_auto_48px] gap-y-3 container-grid ">
-    <div class="col-start-2 col-end-2 row-start-2 row-end-2">
+    <div class="col-start-2 col-end-2 row-start-2 row-end-2">  
         <nav aria-label="Breadcrumb ">
             <ol class="flex gap-2 items-center">
-            <li class="">
-                <a href="https://www.copaair.com/es/vuelos" class={getTypography('body','link', 'text-gray-50')}>Inicio</a>
-            </li>
-            <li class={getTypography('body','link', 'text-gray-50')} >&rsaquo;</li>
-            <li class="">
-                <a href="https://www.copaair.com/es/vuelos-promociones" class={getTypography('body','link', 'text-gray-50')}>Promociones</a>
-            </li>
-           
+              {#each breadcrumbItems as item, index}
+                <li class="">
+                  <a href={item.href} class={getTypography('body','link', 'text-gray-50')}>{item.title}</a>
+                </li>
+                {#if index < breadcrumbItems.length - 1}
+                  <li class={getTypography('body','link', 'text-gray-50')} >&rsaquo;</li>
+                {/if}
+              {/each}
+              <li class={getTypography('body','link', 'text-gray-50')} >&rsaquo;</li>
             </ol>
-        </nav>
+          </nav>
        
     </div>
     <picture class="left-1/4  col-start-2 col-end-2 row-start-3 row-end-3  ">
