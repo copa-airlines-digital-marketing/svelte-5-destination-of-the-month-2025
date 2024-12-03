@@ -1,0 +1,1 @@
+export{ default as Root } from "./MainIntro.svelte"
