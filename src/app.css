@@ -1,3 +1,28 @@
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
+
+.Campaign.lg\:max-w-6xl {
+    max-width: 100% !important;
+}
+
+.Campaign.lg\:max-w-6xl {
+    max-width: 100% !important;
+}
+
+.Campaign .py-4 {
+padding-bottom: 0;
+padding-top: 0;
+}
+.Campaign .px-3 {
+padding-left: 0;
+padding-right: 0;
+}
+
+
+header{
+    border-bottom-width: 1px;
+    --tw-border-opacity: 1;
+    border-bottom-color: rgb(82 116 191 / var(--tw-border-opacity)) /* #5274bf */;
+    
+ }
