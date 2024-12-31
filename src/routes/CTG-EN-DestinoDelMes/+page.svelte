@@ -10,7 +10,7 @@
 
 <MainHeader.Root >
    <MainHeader.BreadcrumbsEN></MainHeader.BreadcrumbsEN>
-   <MainHeader.MainLogo dLogoID='0dd78e50-4b71-4404-bc47-991894cf06c4'></MainHeader.MainLogo>
+   <MainHeader.MainLogo dLogoID='0dd78e50-4b71-4404-bc47-991894cf06c4'> </MainHeader.MainLogo>
 </MainHeader.Root>
 
 <MainImage.Root mainImageID="269ea88d-85a0-423a-b115-9aa3c5310e9f" ></MainImage.Root>
