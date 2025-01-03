@@ -10,55 +10,55 @@
 
 <MainHeader.Root >
    <MainHeader.BreadcrumbsPT></MainHeader.BreadcrumbsPT>
-   <MainHeader.MainLogo dLogoID='6ad99478-2540-4ade-8df3-312f8506bf8a'></MainHeader.MainLogo>
+   <MainHeader.MainLogo dLogoID='4be36295-2795-40a4-8a2e-713772d56894'></MainHeader.MainLogo>
 </MainHeader.Root>
 
-<MainImage.Root mainImageID="269ea88d-85a0-423a-b115-9aa3c5310e9f" ></MainImage.Root>
+<MainImage.Root mainImageID="c3c1b68c-17f7-4dcf-a051-fb0db8a653f3" ></MainImage.Root>
 
 <MainIntro.Root 
-introTitle="Descubra os encantos de Punta Cana" 
-introDescription="Em um recanto do Caribe onde a natureza e o relaxamento se encontram, existe um destino que promete total desconexão e momentos inesquecíveis. Boas-vindas a Punta Cana, um paraíso onde cada nascer do sol sobre as águas azuis marca o início de um dia repleto de aventuras, sabores e emoções. Essa viagem não é apenas uma escapada, é um convite para conhecer o Caribe da melhor maneira possível." 
+introTitle="Descubra o Encanto de Cartagena" 
+introDescription="Esta histórica cidade colombiana combina um rico patrimônio cultural, praias douradas e uma vida noturna vibrante. Em Cartagena, cada canto conta uma história, desde as ruas de paralelepípedos de sua Cidade Murada até as paisagens paradisíacas das Ilhas do Rosário." 
 introBookURL="https://www.google.com"
-introBookCTA="Reserva ya"
+introBookCTA="Reserve Agora"
 ></MainIntro.Root>
 
 <MainContent.Root>
     <MainContent.Card
-    cardTitle="Sinta a emoção do catamarã e do mergulho com snorkel" 
-    cardDescription="Embarque em um passeio de catamarã e descubra a vida marinha que vive nos recifes de coral de Punta Cana. Com uma máscara e o snorkel, mergulhe em um mundo submarino repleto de peixes coloridos e corais de cores vibrantes. Se você preferir relaxar no convés com música e bebidas em vez de explorar as águas, essa experiência combina aventura e serenidade." 
-    cardImageID="c3e018a5-81b4-48b9-900f-3745af036869"
-    cardImageAlt="Catamarán en Punta Cana" 
+    cardTitle="Relaxe Sob o Sol do Caribe" 
+    cardDescription="Cartagena é conhecida por suas praias, onde o sol e o mar se unem para criar o cenário perfeito para relaxar. A praia de Bocagrande oferece um ambiente animado e confortável, ideal para famílias e amigos. Para quem busca algo mais exclusivo, as Ilhas do Rosário e Barú, com suas areias brancas e águas cristalinas, são incomparáveis. Lá, Playa Blanca se destaca por sua serenidade e beleza, convidando você a aproveitar um dia de descanso com uma deliciosa limonada de coco na mão." 
+    cardImageID="34733aa0-234f-4f9c-a513-d70b4adc2587"
+    cardImageAlt="Relaxe Sob o Sol do Caribe" 
     ></MainContent.Card>
   
     <MainContent.Card
-    cardTitle="Relaxe em Macau: um verdadeiro paraíso" 
-    cardDescription="Se você estiver procurando um ambiente mais natural e menos urbanizado, a praia de Macao é o lugar perfeito. Famosa por sua beleza selvagem, essa praia dispõe de ondas ideais para o surfe e um ambiente mais tranquilo para aqueles que querem fugir da agitação do turismo. Aqui você pode desfrutar de um almoço preparado na hora em um dos restaurantes locais à beira-mar, saborear peixes frescos e absorver a autêntica essência caribenha cercada por paisagens espetaculares." 
-    cardImageID="adeb73d4-13de-4974-90ce-2954bdaf3502"
-    cardImageAlt="Macao: Un Paraíso Auténtico" 
+    cardTitle="Viva uma Aventura Tropical" 
+    cardDescription="Cartagena também é um destino para os aventureiros. Esportes aquáticos como caiaque, snorkeling e stand-up paddle são populares na região. Além disso, a área oferece a oportunidade de mergulhar entre recifes de coral e descobrir a vida marinha do Caribe colombiano. Se você prefere manter os pés no chão, uma visita ao Vulcão Totumo permite que você tome um banho de lama vulcânica—uma experiência divertida e única." 
+    cardImageID="2706208c-a0ae-4dc6-9be8-9c873674b5d7"
+    cardImageAlt="Viva uma Aventura Tropical" 
     ></MainContent.Card>
   
     <MainContent.Card
-    cardTitle="Aventure-se na Reserva Ecológica Ojos Indígenas" 
-    cardDescription="Descubra a natureza de Punta Cana com uma visita à Reserva Ecológica Ojos Indígenas. Esse paraíso natural abriga uma série de trilhas que levam a doze lagoas de água doce, perfeitas para um mergulho refrescante. Cercado por uma exuberante vegetação tropical, esse lugar conecta você com a tranquilidade e a beleza da biodiversidade local." 
-    cardImageID="f9972e59-da30-4b89-bd7a-cbb90102f2cb"
-    cardImageAlt="Reserva Ecológica Ojos Indígenas" 
+    cardTitle="Sinta o Ritmo da Cidade" 
+    cardDescription="A Cidade Murada de Cartagena é um tesouro histórico cheio de charme. Suas ruas de paralelepípedos, varandas floridas e praças coloniais convidam você a se perder em uma viagem ao passado. Passeie pelo emblemático bairro de San Diego, visite a Torre do Relógio e maravilhe-se com a arquitetura de igrejas como a Catedral de Santa Catalina de Alejandría. Não deixe de caminhar pelas muralhas que protegeram a cidade de piratas e ataques, oferecendo vistas espetaculares do mar do Caribe. Cada canto está cheio de história e romance, ideal para fotos inesquecíveis e momentos únicos." 
+    cardImageID="07b24005-136c-456e-86dd-acfcf7f50511"
+    cardImageAlt="Sinta o Ritmo da Cidade" 
     ></MainContent.Card>
   
     <MainContent.Card
-    cardTitle="Desfrute da gastronomia local" 
-    cardDescription="Deixe seus sentidos explorarem os sabores únicos da culinária dominicana em um dos beach clubs exclusivos de Punta Cana. Do tradicional mofongo aos frutos do mar fresquinhos preparados com um toque local, cada prato conta uma história culinária. Combine sua refeição com uma refrescante piña colada ou um rum dominicano e aprecie a vista para o mar enquanto o sol se põe." 
-    cardImageID="44fd2574-014f-4422-a435-c4b214856566"
-    cardImageAlt="Gastronomía Local" 
+    cardTitle="Saboreie os Sabores de Cartagena" 
+    cardDescription="A culinária de Cartagena é uma fusão de tradições africanas, indígenas e espanholas que encantam os paladares mais exigentes. Experimente delícias locais como arepas de huevo, carimañolas ou arroz com coco acompanhado de peixe frito. Para algo mais especial, um prato de mote de queijo ou uma caçarola de frutos do mar será inesquecível. Não se esqueça de se refrescar com uma limonada de panela ou um coquetel de corozo para completar a experiência." 
+    cardImageID="1da0f2ef-d267-4aaa-bf3a-06a6697de6aa"
+    cardImageAlt="Saboreie os Sabores de Cartagena" 
     ></MainContent.Card>
 </MainContent.Root>
 
 <FareIntro.Root
-destination="Punta Cana"
-bookLimitDate="31 de dezembro" 
-bookLimitYear="2024"
-flyLimitDate="30 de abril"
+destination="Cartagena"
+bookLimitDate="31 de janeiro" 
+bookLimitYear="2025"
+flyLimitDate="31 de maio"
 flyLimitYear="2025"
-
 ></FareIntro.Root>
+
 
 

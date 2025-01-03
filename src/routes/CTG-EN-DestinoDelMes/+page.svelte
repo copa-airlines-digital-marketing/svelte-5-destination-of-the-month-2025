@@ -4,62 +4,60 @@
     import * as MainImage from "$lib/components/ui/Image";
     import * as MainIntro from "$lib/components/ui/Intro";
     import * as MainContent from "$lib/components/ui/Content";
-	import * as FareIntroEN from "$lib/components/ui/ENFareIntro";
+	import * as FareIntro from "$lib/components/ui/ENFareIntro";
 	</script>
 
 
 <MainHeader.Root >
    <MainHeader.BreadcrumbsEN></MainHeader.BreadcrumbsEN>
-   <MainHeader.MainLogo dLogoID='0dd78e50-4b71-4404-bc47-991894cf06c4'> </MainHeader.MainLogo>
+   <MainHeader.MainLogo dLogoID='4bd2df19-5d8d-4acd-9a73-f596bfa7e8f6'></MainHeader.MainLogo>
 </MainHeader.Root>
 
-<MainImage.Root mainImageID="269ea88d-85a0-423a-b115-9aa3c5310e9f" ></MainImage.Root>
+<MainImage.Root mainImageID="c3c1b68c-17f7-4dcf-a051-fb0db8a653f3" ></MainImage.Root>
 
 <MainIntro.Root 
-introTitle="Discover the Charms of Punta Cana" 
-introDescription="In a corner of the Caribbean where nature and relaxation converge, there is a destination that offers total disconnection and unforgettable moments. Welcome to Punta Cana, a paradise where every sunrise over turquoise waters marks the beginning of a day full of adventures, flavors and emotions. This trip is not just a getaway, but an invitation to experience the Caribbean at its best." 
+introTitle="Discover the Charm of Cartagena" 
+introDescription="This historic Colombian city combines a rich cultural heritage, golden beaches, and a vibrant nightlife. In Cartagena, every corner tells a story, from the cobblestone streets of its Walled City to the paradisiacal landscapes of the Rosario Islands." 
 introBookURL="https://www.google.com"
-introBookCTA="Book now"
+introBookCTA="Book Now"
 ></MainIntro.Root>
 
 <MainContent.Root>
     <MainContent.Card
-    cardTitle="Feel the Thrill of Catamaran Sailing and Snorkeling" 
-    cardDescription="Embark on a catamaran ride and discover the marine life that inhabits the coral reefs of Punta Cana. Equipped with mask and snorkel, immerse yourself in an underwater world full of colorful fish and vibrant corals. Whether you prefer to relax on deck with music and drinks or explore the waters, this experience combines adventure and serenity." 
-    cardImageID="c3e018a5-81b4-48b9-900f-3745af036869"
-    cardImageAlt="Thrill of Catamaran Sailing and Snorkeling" 
-    ></MainContent.Card>
-
-    <MainContent.Card
-    cardTitle="Relax in Macao: A True Paradise" 
-    cardDescription="If you’re looking for a more natural and less developed environment, Macao Beach is the perfect place. Famous for its wild beauty, this beach offers waves that are ideal for surfing and a more tranquil setting for those who want to escape the hustle and bustle of tourism. Here you can enjoy a fresh lunch at one of the local beachfront restaurants, taste freshly caught fish and soak up the true essence of the Caribbean surrounded by stunning landscapes." 
-    cardImageID="adeb73d4-13de-4974-90ce-2954bdaf3502"
-    cardImageAlt="Relax in Macao" 
+    cardTitle="Relax Under the Caribbean Sun" 
+    cardDescription="Cartagena is renowned for its beaches, where the sun and sea come together to create the perfect setting for relaxation. Bocagrande Beach offers a lively and comfortable environment, ideal for families and friends. For those seeking something more exclusive, the Rosario and Barú Islands, with white sands and crystal-clear waters, are unmatched. There, Playa Blanca stands out for its serenity and beauty, inviting you to enjoy a day of relaxation with a delicious coconut lemonade in hand." 
+    cardImageID="34733aa0-234f-4f9c-a513-d70b4adc2587"
+    cardImageAlt="Relax Under the Caribbean Sun" 
     ></MainContent.Card>
   
     <MainContent.Card
-    cardTitle="Venture into the Ojos Indígenas Ecological Reserve" 
-    cardDescription="Get deep into Punta Cana’s nature by visiting the Ojos Indígenas Ecological Reserve. This natural paradise is home to a network of trails that lead to twelve freshwater lagoons, perfect for a refreshing swim. Surrounded by lush tropical vegetation, this place connects you with the peace and beauty of local biodiversity." 
-    cardImageID="f9972e59-da30-4b89-bd7a-cbb90102f2cb"
-    cardImageAlt="Venture into the Ojos Indígenas Ecological Reserve" 
+    cardTitle="Experience a Tropical Adventure" 
+    cardDescription="Cartagena is also a destination for adventurers. Water sports like kayaking, snorkeling, and paddleboarding are popular in the region. Additionally, the area offers the opportunity to dive among coral reefs and discover the marine life of the Colombian Caribbean. If you prefer to keep your feet on the ground, a trip to the Totumo Volcano lets you bathe in volcanic mud—a fun and unique experience." 
+    cardImageID="2706208c-a0ae-4dc6-9be8-9c873674b5d7"
+    cardImageAlt="Experience a Tropical Adventure" 
     ></MainContent.Card>
   
-
+    <MainContent.Card
+    cardTitle="Feel the Rhythm of the City" 
+    cardDescription="Cartagena's Walled City is a historical treasure full of charm. Its cobblestone streets, flower-filled balconies, and colonial squares invite you to lose yourself in a journey to the past. Stroll through the iconic San Diego neighborhood, visit the Clock Tower, and marvel at the architecture of churches like the Cathedral of Santa Catalina de Alejandría. Don't miss walking along the walls that protected the city from pirates and attacks, offering spectacular views of the Caribbean Sea. Every corner is filled with history and romance, ideal for unforgettable photos and unique moments." 
+    cardImageID="07b24005-136c-456e-86dd-acfcf7f50511"
+    cardImageAlt="Feel the Rhythm of the City" 
+    ></MainContent.Card>
   
     <MainContent.Card
-    cardTitle="Enjoy Local Cuisine" 
-    cardDescription="Let your senses explore the unique flavors of Dominican cuisine at one of Punta Cana’s exclusive beach clubs. From traditional mofongo to fresh seafood prepared with a local touch, each dish will tell a culinary story. Accompany your meal with a refreshing piña colada or Dominican rum and enjoy the ocean views as the sun sets." 
-    cardImageID="44fd2574-014f-4422-a435-c4b214856566"
-    cardImageAlt="Gastronomía Local" 
+    cardTitle="Savor Cartagena's Flavors" 
+    cardDescription="Cartagena's cuisine is a fusion of African, Indigenous, and Spanish traditions that delight even the most discerning palates. Try local delicacies like arepas de huevo, carimañolas, or coconut rice paired with fried fish. For something more special, a plate of mote de queso or seafood casserole will be unforgettable. Don't forget to refresh yourself with a panela lemonade or a corozo cocktail to complete the experience." 
+    cardImageID="1da0f2ef-d267-4aaa-bf3a-06a6697de6aa"
+    cardImageAlt="Savor Cartagena's Flavors" 
     ></MainContent.Card>
 </MainContent.Root>
 
-<FareIntroEN.Root
-destination="Punta Cana"
-bookLimitDate="December 31" 
-bookLimitYear="2024"
-flyLimitDate="April 30"
+<FareIntro.Root
+destination="Cartagena"
+bookLimitDate="January 31" 
+bookLimitYear="2025"
+flyLimitDate="May 31"
 flyLimitYear="2025"
+></FareIntro.Root>
 
-></FareIntroEN.Root>
 
