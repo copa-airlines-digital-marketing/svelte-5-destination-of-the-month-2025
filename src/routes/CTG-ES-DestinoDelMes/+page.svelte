@@ -1,11 +1,10 @@
 <script>
-	import { getTypography } from "$lib/components/foundations/typography";
     import * as MainHeader from "$lib/components/ui/MainTitle";
     import * as MainImage from "$lib/components/ui/Image";
     import * as MainIntro from "$lib/components/ui/Intro";
     import * as MainContent from "$lib/components/ui/Content";
 	import * as FareIntro from "$lib/components/ui/ESFareIntro";
-	</script>
+</script>
 
 
 <MainHeader.Root >
