@@ -13,6 +13,9 @@
             <li><a href="./CTG-ES-DestinoDelMes" class={getTypography('u1','link')} >Destino Del Mes - ES - Cartagena</a></li>
             <li><a href="./CTG-EN-DestinoDelMes" class={getTypography('u1','link')} >Destino Del Mes - EN - Cartagena</a></li>
             <li><a href="./CTG-PT-DestinoDelMes" class={getTypography('u1','link')} >Destino Del Mes - PT - Cartagena</a></li>
+            <li><a href="./MEX-ES-DestinoDelMes" class={getTypography('u1','link')} >Destino Del Mes - ES - Mexico</a></li>
+            <li><a href="./MEX-EN-DestinoDelMes" class={getTypography('u1','link')} >Destino Del Mes - EN - Mexico</a></li>
+            <li><a href="./MEX-PT-DestinoDelMes" class={getTypography('u1','link')} >Destino Del Mes - PT - Mexico</a></li>
            
          
           </ol>
