@@ -17,6 +17,10 @@
             <li><a href="./MEX-EN-DestinoDelMes" class={getTypography('u1','link')} >Destino Del Mes - EN - Mexico</a></li>
             <li><a href="./MEX-PT-DestinoDelMes" class={getTypography('u1','link')} >Destino Del Mes - PT - Mexico</a></li>
            
+            <li><a href="./GRU-ES-DestinoDelMes" class={getTypography('u1','link')} >Destino Del Mes - ES - GRU</a></li>
+            <li><a href="./GRU-EN-DestinoDelMes" class={getTypography('u1','link')} >Destino Del Mes - EN - GRU</a></li>
+            <li><a href="./GRU-PT-DestinoDelMes" class={getTypography('u1','link')} >Destino Del Mes - PT - GRU</a></li>
+           
          
           </ol>
     </nav>

@@ -22,7 +22,7 @@ let {
             alt="{cardImageAlt}" />
     </div>
     <div class="m-8 flex flex-col gap-4">
-        <h3 class={getTypography('display','h3','text-primary')} >{cardTitle}</h3>
+        <h3 class={getTypography('caption','h3','!text-primary')} >{cardTitle}</h3>
         <p class={getTypography('body','body')} >{cardDescription}</p>
     </div>
 </div>
