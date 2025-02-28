@@ -7,6 +7,9 @@
 <div class="container mx-auto my-8">
     <nav >
         <ol class="flex flex-col gap-3">
+            <li><a href="./BOG-ES-DestinoDelMes" class={getTypography('u1','link')} >Destino Del Mes - ES - Bogotá</a></li>
+            <li><a href="./BOG-EN-DestinoDelMes" class={getTypography('u1','link')} >Destino Del Mes - EN - Bogotá</a></li>
+            <li><a href="./BOG-PT-DestinoDelMes" class={getTypography('u1','link')} >Destino Del Mes - PT - Bogotá</a></li>
             <li><a href="./PUJ-ES-DestinoDelMes" class={getTypography('u1','link')} >Destino Del Mes - ES - Punta Cana</a></li>
             <li><a href="./PUJ-EN-DestinoDelMes" class={getTypography('u1','link')} >Destino Del Mes - EN - Punta Cana</a></li>
             <li><a href="./PUJ-PT-DestinoDelMes" class={getTypography('u1','link')} >Destino Del Mes - PT - Punta Cana</a></li>
