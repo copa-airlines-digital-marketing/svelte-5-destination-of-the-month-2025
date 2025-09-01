@@ -24,7 +24,7 @@
 		<img
 			src="https://cm-marketing.directus.app/assets/{mainImageID}"
 			alt=""
-			class="h-full w-full rounded-2xl object-cover drop-shadow-lg"
+			class="h-full w-full rounded-2xl object-bottom drop-shadow-lg"
 		/>
 	</picture>
 </div>

@@ -6,6 +6,21 @@
 	<nav>
 		<ol class="flex flex-col gap-3">
 			<li>
+				<a href="./ORD-ES-DestinoDelMes" class={getTypography('u1', 'link')}
+					>Destino Del Mes - ES - Chicago</a
+				>
+			</li>
+			<li>
+				<a href="./ORD-EN-DestinoDelMes" class={getTypography('u1', 'link')}
+					>Destino Del Mes - EN - Chicago</a
+				>
+			</li>
+			<li>
+				<a href="./ORD-PT-DestinoDelMes" class={getTypography('u1', 'link')}
+					>Destino Del Mes - PT - Chicago</a
+				>
+			</li>
+			<li>
 				<a href="./CUN-ES-DestinoDelMes" class={getTypography('u1', 'link')}
 					>Destino Del Mes - ES - Cancún</a
 				>
