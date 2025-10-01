@@ -4,7 +4,7 @@
 
 <div class="container mx-auto">
 	<picture
-		class=" mx-auto block aspect-[8_/_8] py-6 sm:aspect-[16_/_8] md:aspect-[16_/_6] lg:aspect-[16_/_7]"
+		class=" mx-auto block aspect-[8_/_8] py-6 sm:aspect-[16_/_8] md:aspect-[16_/_6] lg:aspect-[16_/_9]"
 	>
 		<source
 			media="(min-width: 1367px)"
